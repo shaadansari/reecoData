@@ -3,9 +3,9 @@
     {
       "brand": "new ",
       "id": 1,
-      "price": "$60.67 / 6+1LB",
+      "price": 60.67,
       "productName": "Fred",
-      "quantity": "0 x 6 *1LB",
+      "quantity": 0,
       "status": "",
       "total": "0",
       "image": "apple"
@@ -13,9 +13,9 @@
     {
       "brand": "popular",
       "id": 2,
-      "price": "$45.99 / 4+1LB",
+      "price": 45.99,
       "productName": "Alice",
-      "quantity": "2 x 4 *1LB",
+      "quantity": 2,
       "status": "",
       "total": "91.98",
       "image": "avocado"
@@ -23,9 +23,9 @@
     {
       "brand": "organic",
       "id": 3,
-      "price": "$35.50 / 3+1LB",
+      "price": 35.50,
       "productName": "Bob",
-      "quantity": "5 x 3 *1LB",
+      "quantity": 5,
       "status": "",
       "total": "177.50",
       "image": "apple"
@@ -33,9 +33,9 @@
     {
       "brand": "premium",
       "id": 4,
-      "price": "$75.25 / 5+1LB",
+      "price": 75.25,
       "productName": "Eve",
-      "quantity": "3 x 5 *1LB",
+      "quantity": 3,
       "status": "",
       "total": "225.75",
       "image": "avocado"
@@ -43,9 +43,9 @@
     {
       "brand": "discount",
       "id": 5,
-      "price": "$30.00 / 2+1LB",
+      "price": 30.00,
       "productName": "Charlie",
-      "quantity": "1 x 2 *1LB",
+      "quantity": 1,
       "status": "",
       "total": "30.00",
       "image": "avocado"
